@@ -1,0 +1,23 @@
+Identify highest peak in decoding
+Calculate error for every frame
+Do post-processign error correction (move estimate by x periods until lowest error)
+
+calculate theta phase
+classify on time in 20ms buckets
+
+Autocorrelate all spiketrains
+
+Create presentation
+Slides:
+    Intro/Problem Statement
+    Population Theta Modulation
+    Tuning Curves
+    Decoding
+    Individual Theta Modulation
+    Challenges
+
+Create one page paper
+
+If enough time
+Calculate 2D change in phase between different M1 neurons
+Correlate the errors between 
